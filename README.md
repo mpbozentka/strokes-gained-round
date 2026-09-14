@@ -12,15 +12,46 @@ It also catches its own inputs being wrong. If your reported nine or round total
 
 ## Install
 
-**Claude Code** (or any tool reading `~/.claude/skills/`):
+The same files work in Claude Code, Codex, and Cursor — all three read the `SKILL.md`
+format. Only the folder differs.
+
+| Tool | Clone into |
+|---|---|
+| Claude Code / Claude Desktop | `~/.claude/skills/strokes-gained-round` |
+| Codex CLI | `~/.codex/skills/strokes-gained-round` |
+| Cursor | `~/.cursor/skills/strokes-gained-round` |
 
 ```bash
+# pick the line for your tool
 git clone https://github.com/mpbozentka/strokes-gained-round.git ~/.claude/skills/strokes-gained-round
+git clone https://github.com/mpbozentka/strokes-gained-round.git ~/.codex/skills/strokes-gained-round
+git clone https://github.com/mpbozentka/strokes-gained-round.git ~/.cursor/skills/strokes-gained-round
 ```
 
-**Codex:** clone to `~/.codex/skills/strokes-gained-round` instead.
+If the `skills` folder doesn't exist yet, `git clone` creates it.
 
-The skill is discovered on the next session — no restart needed in Claude Code.
+Claude Code picks the skill up on the next session. Codex and Cursor want a restart;
+in Codex, `/skills` lists what loaded, and in Cursor the skill shows in the slash-command
+menu. In Cursor you can also put it in a project instead of your home folder, at
+`.cursor/skills/strokes-gained-round/`, which is the better choice if you want it
+committed alongside a repo.
+
+### Without git
+
+Download the ZIP from the green **Code** button on the repo page, unzip it, and move the
+folder into the table's path for your tool. GitHub names the unzipped folder
+`strokes-gained-round-main` — rename it to `strokes-gained-round`, since the folder name
+is the skill name.
+
+Or from a terminal:
+
+```bash
+curl -L https://github.com/mpbozentka/strokes-gained-round/archive/refs/heads/main.tar.gz \
+  | tar -xz && mv strokes-gained-round-main ~/.claude/skills/strokes-gained-round
+```
+
+Keep the inner folder structure exactly as it is — `SKILL.md` resolves `scripts/` and
+`references/` by relative path and breaks if they move.
 
 ## Verify the install
 
