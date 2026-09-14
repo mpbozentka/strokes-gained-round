@@ -404,10 +404,21 @@ def calculate_hole(
     if abs(hole_sg - reconciled_sg) > 1e-9:
         raise RuntimeError("failed reconciliation: shot SG does not sum to expected tee strokes minus score")
     if reported_score is not None and reported_score != hole_score:
-        raise ValueError(
+        message = (
             f"reported score of {reported_score} does not match the ledger total of {hole_score}; "
             "the narration is incomplete or was parsed incorrectly"
         )
+        # A one-stroke shortfall on a hole with a penalty is nearly always an
+        # unnarrated stroke-and-distance re-hit: going back costs two strokes,
+        # and golfers routinely describe only one of them.
+        if reported_score - hole_score == 1 and any(row["penalties"] for row in ledger):
+            message += (
+                ". This hole has a penalty and is short by exactly one stroke, which usually means "
+                "a stroke-and-distance re-hit was played but not narrated (going back costs two: "
+                "the penalty plus the replayed shot). Ask whether they replayed from the previous "
+                "spot or took relief near the penalty area"
+            )
+        raise ValueError(message)
 
     return {
         "hole": hole_number,
@@ -484,6 +495,12 @@ def calculate(
             stated_int = whole_number(stated, key, 1)
         except ValueError as error:
             round_errors.append(str(error))
+            return
+        if holes is None and hole_errors:
+            round_errors.append(
+                f"{label} of {stated_int} not checked: {len(hole_errors)} hole(s) were rejected, "
+                "so the ledger total does not cover the whole round"
+            )
             return
         wanted = set(holes) if holes is not None else calculated_numbers
         if holes is not None and not wanted.issubset(calculated_numbers):

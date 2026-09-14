@@ -1,0 +1,83 @@
+{"reported_front_nine":41,"reported_back_nine":43,"reported_total":84,"holes":[
+{"hole":1,"par":5,"completed":true,"reported_score":5,"shots":[
+{"distance":528,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":268,"unit":"yards","lie":"fairway","club":"3 wood"},
+{"distance":48,"unit":"yards","lie":"rough","club":"pitching wedge"},
+{"distance":15,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":2,"par":4,"completed":true,"reported_score":4,"shots":[
+{"distance":385,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":145,"unit":"yards","lie":"fairway","club":"7 iron"},
+{"distance":25,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":3,"par":4,"completed":true,"reported_score":4,"shots":[
+{"distance":376,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":150,"unit":"yards","lie":"rough","club":"8 iron"},
+{"distance":30,"unit":"yards","lie":"fairway","club":"sand wedge"},
+{"distance":8,"unit":"feet","lie":"green","club":"putter","strokes":1}]},
+{"hole":4,"par":3,"completed":true,"reported_score":4,"shots":[
+{"distance":227,"unit":"yards","lie":"tee","club":"3 wood"},
+{"distance":20,"unit":"yards","lie":"sand","club":"sand wedge"},
+{"distance":12,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":5,"par":4,"completed":true,"reported_score":5,"shots":[
+{"distance":394,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":144,"unit":"yards","lie":"fairway","club":"8 iron"},
+{"distance":15,"unit":"yards","lie":"rough","club":"lob wedge"},
+{"distance":6,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":6,"par":4,"completed":true,"reported_score":5,"shots":[
+{"distance":432,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":172,"unit":"yards","lie":"fairway","club":"6 iron"},
+{"distance":15,"unit":"yards","lie":"sand","club":"sand wedge"},
+{"distance":20,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":7,"par":4,"completed":true,"reported_score":6,"shots":[
+{"distance":401,"unit":"yards","lie":"tee","club":"driver","penalties":1},
+{"distance":180,"unit":"yards","lie":"fairway","club":"5 iron"},
+{"distance":30,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":8,"par":5,"completed":true,"reported_score":4,"shots":[
+{"distance":518,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":248,"unit":"yards","lie":"fairway","club":"5 wood"},
+{"distance":60,"unit":"yards","lie":"fairway","club":"lob wedge"},
+{"distance":10,"unit":"feet","lie":"green","club":"putter","strokes":1}]},
+{"hole":9,"par":3,"completed":true,"reported_score":4,"shots":[
+{"distance":169,"unit":"yards","lie":"tee","club":"7 iron"},
+{"distance":40,"unit":"feet","lie":"green","club":"putter","strokes":3}]},
+{"hole":10,"par":5,"completed":true,"reported_score":5,"shots":[
+{"distance":551,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":311,"unit":"yards","lie":"rough","club":"5 iron"},
+{"distance":151,"unit":"yards","lie":"fairway","club":"7 iron"},
+{"distance":15,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":11,"par":4,"completed":true,"reported_score":4,"shots":[
+{"distance":381,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":121,"unit":"yards","lie":"fairway","club":"pitching wedge"},
+{"distance":20,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":12,"par":5,"completed":true,"reported_score":6,"shots":[
+{"distance":554,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":304,"unit":"yards","lie":"fairway","club":"3 wood"},
+{"distance":204,"unit":"yards","lie":"fairway","club":"4 hybrid"},
+{"distance":20,"unit":"yards","lie":"sand","club":"sand wedge"},
+{"distance":10,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":13,"par":3,"completed":true,"reported_score":4,"shots":[
+{"distance":206,"unit":"yards","lie":"tee","club":"4 hybrid"},
+{"distance":25,"unit":"yards","lie":"rough","club":"pitching wedge"},
+{"distance":8,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":14,"par":4,"completed":true,"reported_score":5,"shots":[
+{"distance":405,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":145,"unit":"yards","lie":"fairway","club":"8 iron"},
+{"distance":35,"unit":"feet","lie":"green","club":"putter","strokes":3}]},
+{"hole":15,"par":3,"completed":true,"reported_score":3,"shots":[
+{"distance":153,"unit":"yards","lie":"tee","club":"8 iron"},
+{"distance":18,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":16,"par":4,"completed":true,"reported_score":5,"shots":[
+{"distance":341,"unit":"yards","lie":"tee","club":"3 wood"},
+{"distance":121,"unit":"yards","lie":"fairway","club":"9 iron"},
+{"distance":12,"unit":"yards","lie":"sand","club":"sand wedge"},
+{"distance":15,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":17,"par":4,"completed":true,"reported_score":5,"shots":[
+{"distance":419,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":179,"unit":"yards","lie":"recovery","club":"6 iron"},
+{"distance":49,"unit":"yards","lie":"fairway","club":"sand wedge"},
+{"distance":15,"unit":"feet","lie":"green","club":"putter","strokes":2}]},
+{"hole":18,"par":4,"completed":true,"reported_score":6,"shots":[
+{"distance":438,"unit":"yards","lie":"tee","club":"driver"},
+{"distance":188,"unit":"yards","lie":"rough","club":"5 iron"},
+{"distance":30,"unit":"yards","lie":"fairway","club":"lob wedge"},
+{"distance":30,"unit":"feet","lie":"green","club":"putter","strokes":3}]}
+]}

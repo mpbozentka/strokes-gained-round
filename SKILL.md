@@ -69,9 +69,21 @@ The benchmark defines six conditions: `tee`, `fairway`, `rough`, `sand`, `recove
 
 ## Penalties
 
-- Attach the penalty to the shot or decision that caused it; the next state is the position from which play resumed.
-- Out of bounds or a lost ball under stroke and distance: one penalty on the played shot, and the next state is the re-hit position. A provisional abandoned because the original was found does not count.
-- **When the golfer does not say where they dropped, group the penalty stroke with the following shot** rather than inventing a drop position. Charge the played strokes plus the penalty to that one segment.
+**A penalty is one stroke.** Never infer two. Two-stroke penalties exist — wrong ball, playing from a wrong place, and similar — but they are recorded only when the golfer says so explicitly. Attach the penalty to the shot or decision that caused it; `strokes_charged` for that segment is played strokes plus penalties.
+
+What distinguishes the relief options is not the stroke count. It is **where play resumes**, and that is what the ledger needs.
+
+- **Stroke and distance** — out of bounds, a lost ball, or elected relief. One penalty, and the ball goes back to where the previous shot was played. The next state therefore has the **same distance and lie** as the shot that caused it: a re-teed drive is another `tee` segment at the hole's full length, and it scores as off the tee. The re-hit is its own played stroke and its own ledger row.
+- **Penalty area** — red or yellow; called a hazard before 2019. One penalty, and play resumes near where the ball last crossed the margin, on the back-on-the-line relief point, or (red only) within two club-lengths laterally. The next state is normally well **forward** of the previous shot.
+- **Unplayable ball** — one penalty, with three options: stroke and distance, back on the line, or two club-lengths laterally. Use whichever position the golfer states.
+- A designated **drop zone** is simply a stated position; record it as given.
+- A provisional abandoned because the original was found does not count at all.
+
+**The word "drop" does not tell you which relief was taken — the resumed position does.** If play resumed at or behind the previous shot's position, it was stroke and distance. If it resumed forward of it, it was penalty-area or unplayable relief. Do not classify from the verb.
+
+**Diagnostic:** stroke and distance costs two strokes to end up back where you started; penalty-area relief costs one stroke and advances the ball. So when a hole's stated score exceeds the narrated strokes by exactly one and a penalty is involved, the usual cause is an unnarrated stroke-and-distance re-hit that the golfer skipped over. Ask which it was — do not pick one.
+
+**When the golfer does not say where play resumed, group the penalty stroke with the following shot** rather than inventing a position. Charge the played strokes plus the penalty to that one segment.
 
 ## Grouping
 
