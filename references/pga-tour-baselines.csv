@@ -1,0 +1,55 @@
+distance,unit,tee,fairway,rough,sand,recovery,green,green_scratch,green_90golfer,source
+1,yards,,2.02,2.10,,2.30,,,,Estimated short-game extension (not published)
+5,yards,,,2.15,2.37,,,,,Broadie author Q&A approximate value
+10,yards,,2.18,2.34,2.43,3.45,,,,Broadie 2011 Table 9
+20,yards,,2.40,2.59,2.53,3.51,,,,Broadie 2011 Table 9
+30,yards,,2.52,2.70,2.66,3.57,,,,Broadie 2011 Table 9
+40,yards,,2.60,2.78,2.82,3.71,,,,Broadie 2011 Table 9
+50,yards,,2.66,2.87,2.92,3.79,,,,Broadie 2011 Table 9
+60,yards,,2.70,2.91,3.15,3.83,,,,Broadie 2011 Table 9
+70,yards,,2.72,2.93,3.21,3.84,,,,Broadie 2011 Table 9
+80,yards,,2.75,2.96,3.24,3.84,,,,Broadie 2011 Table 9
+90,yards,,2.77,2.99,3.24,3.82,,,,Broadie 2011 Table 9
+100,yards,2.92,2.80,3.02,3.23,3.80,,,,Broadie 2011 Table 9
+120,yards,2.99,2.85,3.08,3.21,3.78,,,,Broadie 2011 Table 9
+140,yards,2.97,2.91,3.15,3.22,3.80,,,,Broadie 2011 Table 9
+160,yards,2.99,2.98,3.23,3.28,3.81,,,,Broadie 2011 Table 9
+180,yards,3.05,3.08,3.31,3.40,3.82,,,,Broadie 2011 Table 9
+200,yards,3.12,3.19,3.42,3.55,3.87,,,,Broadie 2011 Table 9
+220,yards,3.17,3.32,3.53,3.70,3.92,,,,Broadie 2011 Table 9
+240,yards,3.25,3.45,3.64,3.84,3.97,,,,Broadie 2011 Table 9
+260,yards,3.45,3.58,3.74,3.93,4.03,,,,Broadie 2011 Table 9
+280,yards,3.65,3.69,3.83,4.00,4.10,,,,Broadie 2011 Table 9
+300,yards,3.71,3.78,3.90,4.04,4.20,,,,Broadie 2011 Table 9
+320,yards,3.79,3.84,3.95,4.12,4.31,,,,Broadie 2011 Table 9
+340,yards,3.86,3.88,4.02,4.26,4.44,,,,Broadie 2011 Table 9
+360,yards,3.92,3.95,4.11,4.41,4.56,,,,Broadie 2011 Table 9
+380,yards,3.96,4.03,4.21,4.55,4.66,,,,Broadie 2011 Table 9
+400,yards,3.99,4.11,4.30,4.69,4.75,,,,Broadie 2011 Table 9
+420,yards,4.02,4.19,4.40,4.83,4.84,,,,Broadie 2011 Table 9
+440,yards,4.08,4.27,4.49,4.97,4.94,,,,Broadie 2011 Table 9
+460,yards,4.17,4.34,4.58,5.11,5.03,,,,Broadie 2011 Table 9
+480,yards,4.28,4.42,4.68,5.25,5.13,,,,Broadie 2011 Table 9
+500,yards,4.41,4.50,4.77,5.40,5.22,,,,Broadie 2011 Table 9
+520,yards,4.54,4.58,4.87,5.54,5.32,,,,Broadie 2011 Table 9
+540,yards,4.65,4.66,4.96,5.68,5.41,,,,Broadie 2011 Table 9
+560,yards,4.74,4.74,5.06,5.82,5.51,,,,Broadie 2011 Table 9
+580,yards,4.79,4.82,5.15,5.96,5.60,,,,Broadie 2011 Table 9
+600,yards,4.82,4.89,5.25,6.10,5.70,,,,Broadie 2011 Table 9
+1,feet,,,,,,1.00,,,Broadie ShotLink putting curve
+2,feet,,,,,,1.01,1.01,1.06,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+3,feet,,,,,,1.04,1.07,1.17,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+4,feet,,,,,,1.13,1.20,1.36,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+5,feet,,,,,,1.23,1.34,1.51,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+6,feet,,,,,,1.34,1.45,1.62,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+7,feet,,,,,,1.42,1.54,1.69,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+8,feet,,,,,,1.50,1.60,1.75,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+9,feet,,,,,,1.56,1.65,1.79,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+10,feet,,,,,,1.61,1.68,1.82,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+15,feet,,,,,,1.78,1.81,1.94,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+20,feet,,,,,,1.87,1.89,2.02,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+30,feet,,,,,,1.98,2.03,2.16,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+40,feet,,,,,,2.06,2.14,2.30,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+50,feet,,,,,,2.14,2.22,2.41,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+60,feet,,,,,,2.21,2.30,2.51,Broadie 2011 Table 9 / Every Shot Counts Table 3.10 p.55 (amateur columns)
+90,feet,,,,,,2.40,,,Broadie ShotLink putting curve

@@ -1,0 +1,637 @@
+{
+ "holes": [
+  {
+   "hole": 1,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 380,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 157,
+     "unit": "yards",
+     "lie": "rough",
+     "club": "pitching wedge"
+    },
+    {
+     "distance": 10,
+     "unit": "yards",
+     "lie": "sand",
+     "club": "sand wedge"
+    },
+    {
+     "distance": 20,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 2,
+   "par": 5,
+   "completed": true,
+   "reported_score": 6,
+   "shots": [
+    {
+     "distance": 502,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 262,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "3 wood",
+     "advance_stated": 110
+    },
+    {
+     "distance": 152,
+     "unit": "yards",
+     "lie": "rough",
+     "club": "7 iron"
+    },
+    {
+     "distance": 25,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "gap wedge"
+    },
+    {
+     "distance": 12,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    },
+    {
+     "distance": 1.5,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  },
+  {
+   "hole": 3,
+   "par": 4,
+   "completed": true,
+   "reported_score": 4,
+   "shots": [
+    {
+     "distance": 390,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "4 hybrid"
+    },
+    {
+     "distance": 205,
+     "unit": "yards",
+     "lie": "rough",
+     "club": "6 iron",
+     "advance_stated": 150
+    },
+    {
+     "distance": 40,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "lob wedge"
+    },
+    {
+     "distance": 8,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  },
+  {
+   "hole": 4,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 331,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "3 wood"
+    },
+    {
+     "distance": 121,
+     "unit": "yards",
+     "lie": "rough",
+     "club": "9 iron",
+     "strokes": 2
+    },
+    {
+     "distance": 30,
+     "unit": "feet",
+     "lie": "fringe",
+     "club": "putter"
+    },
+    {
+     "distance": 4,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  },
+  {
+   "hole": 5,
+   "par": 3,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 195,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "5 wood"
+    },
+    {
+     "distance": 15,
+     "unit": "yards",
+     "lie": "sand",
+     "club": "56 degree"
+    },
+    {
+     "distance": 15,
+     "unit": "yards",
+     "lie": "sand",
+     "club": "sand wedge"
+    },
+    {
+     "distance": 15,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    },
+    {
+     "distance": 2,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  },
+  {
+   "hole": 6,
+   "par": 5,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 506,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 256,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "4 hybrid"
+    },
+    {
+     "distance": 71,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "sand wedge"
+    },
+    {
+     "distance": 10,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 7,
+   "par": 3,
+   "completed": true,
+   "reported_score": 6,
+   "shots": [
+    {
+     "distance": 106,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "52 degree",
+     "penalties": 1
+    },
+    {
+     "distance": 60,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "9 iron"
+    },
+    {
+     "distance": 25,
+     "unit": "feet",
+     "lie": "fringe",
+     "club": "putter"
+    },
+    {
+     "distance": 5,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 8,
+   "par": 4,
+   "completed": true,
+   "reported_score": 7,
+   "shots": [
+    {
+     "distance": 428,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "3 wood"
+    },
+    {
+     "distance": 208,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "4 hybrid",
+     "strokes": 2,
+     "penalties": 1
+    },
+    {
+     "distance": 40,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "lob wedge"
+    },
+    {
+     "distance": 14,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 9,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 483,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 238,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "5 wood"
+    },
+    {
+     "distance": 63,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "56 degree"
+    },
+    {
+     "distance": 18,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 10,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 446,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 211,
+     "unit": "yards",
+     "lie": "rough",
+     "club": "7 iron"
+    },
+    {
+     "distance": 81,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "sand wedge"
+    },
+    {
+     "distance": 16,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    },
+    {
+     "distance": 3,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  },
+  {
+   "hole": 11,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 373,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 143,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "8 iron"
+    },
+    {
+     "distance": 15,
+     "unit": "yards",
+     "lie": "rough",
+     "club": "lob wedge"
+    },
+    {
+     "distance": 12,
+     "unit": "feet",
+     "lie": "fringe",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 12,
+   "par": 3,
+   "completed": true,
+   "reported_score": 4,
+   "shots": [
+    {
+     "distance": 201,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "4 hybrid"
+    },
+    {
+     "distance": 18,
+     "unit": "yards",
+     "lie": "sand",
+     "club": "sand wedge",
+     "strokes": 2
+    },
+    {
+     "distance": 6,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  },
+  {
+   "hole": 13,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 403,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 188,
+     "unit": "yards",
+     "lie": "recovery",
+     "club": "5 iron"
+    },
+    {
+     "distance": 68,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "lob wedge"
+    },
+    {
+     "distance": 10,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 14,
+   "par": 5,
+   "completed": true,
+   "reported_score": 7,
+   "shots": [
+    {
+     "distance": 572,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 322,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "3 wood"
+    },
+    {
+     "distance": 192,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "5 iron",
+     "strokes": 3
+    },
+    {
+     "distance": 20,
+     "unit": "feet",
+     "lie": "collar",
+     "club": "unspecified"
+    },
+    {
+     "distance": 4,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  },
+  {
+   "hole": 15,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 396,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "3 wood"
+    },
+    {
+     "distance": 171,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "6 iron"
+    },
+    {
+     "distance": 15,
+     "unit": "yards",
+     "lie": "sand",
+     "club": "sand wedge"
+    },
+    {
+     "distance": 15,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 16,
+   "par": 4,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 401,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 181,
+     "unit": "yards",
+     "lie": "sand",
+     "club": "7 iron"
+    },
+    {
+     "distance": 41,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "56 degree"
+    },
+    {
+     "distance": 9,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 17,
+   "par": 3,
+   "completed": true,
+   "reported_score": 5,
+   "shots": [
+    {
+     "distance": 177,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "6 iron"
+    },
+    {
+     "distance": 20,
+     "unit": "yards",
+     "lie": "sand",
+     "club": "sand wedge"
+    },
+    {
+     "distance": 22,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    },
+    {
+     "distance": 4,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter",
+     "strokes": 2
+    }
+   ]
+  },
+  {
+   "hole": 18,
+   "par": 5,
+   "completed": true,
+   "reported_score": 6,
+   "shots": [
+    {
+     "distance": 543,
+     "unit": "yards",
+     "lie": "tee",
+     "club": "driver"
+    },
+    {
+     "distance": 313,
+     "unit": "yards",
+     "lie": "recovery",
+     "club": "7 iron"
+    },
+    {
+     "distance": 203,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "4 hybrid"
+    },
+    {
+     "distance": 63,
+     "unit": "yards",
+     "lie": "fairway",
+     "club": "56 degree"
+    },
+    {
+     "distance": 14,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    },
+    {
+     "distance": 0.5,
+     "unit": "feet",
+     "lie": "green",
+     "club": "putter"
+    }
+   ]
+  }
+ ],
+ "reported_front_nine": 48,
+ "reported_back_nine": 48,
+ "reported_total": 96
+}
