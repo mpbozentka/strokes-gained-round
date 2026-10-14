@@ -88,6 +88,16 @@ references/methodology.md             the math, and its limits
 examples/sample-round.json            the verification round
 ```
 
+## Describe your round
+
+Once the skill is installed, type or dictate this to your assistant:
+
+> Use the strokes-gained-round skill to analyze my round. I’ll describe each hole, including the hole length, par, each shot’s starting distance and lie, penalties, and final score. Ask me for any essential missing details.
+
+You can describe your round one hole at a time. Include the distance remaining to the hole and whether the ball was on the tee, fairway, rough, sand, green, or another surface before each shot. Say when you finish the hole and give your final score.
+
+The skill calculates where you gained or lost strokes against the historical PGA TOUR benchmark. If details are missing, it groups strokes where possible or asks for clarification.
+
 ## Requirements
 
 Python 3. Nothing else — no packages, no network, no API keys. Everything runs locally.
